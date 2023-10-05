@@ -1,3 +1,9 @@
+---
+layout: page
+title: List of Abbreviations
+permalink: /abbreviations/
+---
+
 # List of Abbreviations
 
 | Abbreviation | Meaning                                                                                                                            | Short Description                                                                               |
