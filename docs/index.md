@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # Headline
@@ -10,4 +10,4 @@ some text
 
 some more text
 
-- [List of Abbreviations](/abbreviatoins/)
+- [List of Abbreviations](/abbreviations/)
