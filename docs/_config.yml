@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: asc(s e.V. - ENVITED OpenMSL
 description: Open Source Model & Simulation Library
+baseurl: ""
